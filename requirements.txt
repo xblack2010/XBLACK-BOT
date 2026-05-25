@@ -9,3 +9,4 @@ protobuf>=6.30.0
 protobuf-decoder
 python-cfonts
 asyncio
+flask
